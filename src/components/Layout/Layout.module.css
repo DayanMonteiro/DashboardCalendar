@@ -81,9 +81,8 @@
   margin: auto;
   display: flex;
   height: 100%;
-  /* align-items: center; */
-  /* uncomment the aic, and make mt -4rem */
-  margin-top: 4rem;
+  align-items: center;
+  margin-top: -4rem;
 }
 .content > div {
   width: 100%;
