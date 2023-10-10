@@ -27,13 +27,17 @@ npm run dev
 ### Layout do projeto
 
 <br />
+
 ![Home](https://github.com/DayanMonteiro/Imagens/blob/master/img/dashboard-calendar/home.png)
 <br />
 <br />
+
 ![Calendar](https://github.com/DayanMonteiro/Imagens/blob/master/img/dashboard-calendar/calendar.png)
 <br />
 <br />
+
 ![Trello](https://github.com/DayanMonteiro/Imagens/blob/master/img/dashboard-calendar/trello.png)
 <br />
 <br />
+
 ![Table](https://github.com/DayanMonteiro/Imagens/blob/master/img/dashboard-calendar/table.png)
